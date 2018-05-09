@@ -1,0 +1,10 @@
+﻿ID,age,sex,education,income_level,occupation,weekly_use,product,subscriptionstat,syear,last_use,protect_activity
+6576,59,M,bachelor,15000-25000,professional,0,base,1,2013,0,NULL
+6147,49,M,school,30000-45000,business,46.75,base,1,2011,0,NULL
+1301,50,F,bachelor,45000-70000,business,22.1,premium,1,2010,12,1 Alert
+2311,43,F,master,30000-45000,professional,16,base,1,2013,11,NULL
+2020,22,F,school,30000-45000,student,0.9,base,-,2011,8,NULL
+7217,85,M,school,70000+,professional,11.5,base,-,2016,0,NULL
+5753,55,-,-,15000-25000,professional,16,premium,0,2016,23,NULL
+5779,80,-,-,15000-25000,professional,20,premium,0,2015,3,1 Alert
+4815,74,M,-,15000-25000,professional,44,premium,1,2016,2,13 Alerts
