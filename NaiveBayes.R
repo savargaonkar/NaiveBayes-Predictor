@@ -18,7 +18,7 @@ summary(train)
 table(complete.cases(train))
 
 #Pre-processing: Removing NA's - not a large number of observations
-na_index<-which(is.na(train$inc_cat))
+na_index<-which(is.na(train$income_level))
 train_nr<- train
 train_nr<-train[-na_index, ]
 summary(train_nr)
